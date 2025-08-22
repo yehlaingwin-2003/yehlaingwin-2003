@@ -34,6 +34,6 @@ I enjoy turning ideas into real applications and believe in learning by doing �
 Outside of coding, I enjoy ⚽ playing soccer, 🎸 making music on guitar, and 🎤 singing.  
 One of the books that inspires me most is *Atomic Habits*, a reminder that small steps can lead to big change.  
 
-I also recently started a [![YouTube](https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
- YouTube channel to share my journey, the challenges I face, and how I overcome them.  
+I also recently started a <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="22" height="22"/> YouTube channel to share my journey, the challenges I face, and how I overcome them.  
+
 
