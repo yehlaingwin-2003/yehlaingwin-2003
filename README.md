@@ -57,28 +57,12 @@ I also recently started a <img src="https://upload.wikimedia.org/wikipedia/commo
 ## 
 ## 🚀 Projects  
 
-## 🚀 Projects
 
-<p>
-  <img src="https://via.placeholder.com/640x300.png?text=Screenshot" width="640"><br>
-  <b>Virtual Health Coach</b> — AI tips + notifications.<br>
-  <sub>
-    Tech:
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="20">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="20">
-  </sub><br>
-  🔗 <a href="https://github.com/you/vhc">Details</a> · <a href="https://your-demo-link">Live</a>
-</p>
+I’ve worked on multiple projects ranging from web apps, dashboards, and mobile apps.  
+You can explore all of them in detail on my **portfolio website**:  
 
-<p>
-  <img src="https://via.placeholder.com/640x300.png?text=Screenshot" width="640"><br>
-  <b>FX Dashboard</b> — buy FX, visualize trends.<br>
-  <sub>
-    Tech:
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20">
-  </sub><br>
-  🔗 <a href="https://github.com/you/fx">Details</a> · <a href="https://your-demo-link">Live</a>
+<p align="center">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 </p>
