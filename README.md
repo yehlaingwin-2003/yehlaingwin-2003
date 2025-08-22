@@ -79,7 +79,7 @@ You can explore all of them in detail on my **portfolio website**:
 ⚠️ No videos yet — stay tuned! I’ll be uploading my first content soon. 🚀
 <!-- END YOUTUBE-CARDS -->
 
-<p align="center">
+<p>
   <a href="https://youtube.com/@YourHandle">
     <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
