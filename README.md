@@ -27,7 +27,8 @@
 </p>
 
 
-## <h3><i>🙋 About Me</i></h3>
+## 
+<h3><i>🙋 About Me</i></h3>
 
 I enjoy turning ideas into real applications and believe in learning by doing — building projects that help me grow my skills every day. After facing challenges during my years in Singapore Poly, I decided to start learning and doing projects from scratch. 
 
@@ -54,8 +55,9 @@ I also recently started a <img src="https://upload.wikimedia.org/wikipedia/commo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+
 ## 
-## 🚀 Projects  
+<h3>🚀 <i>Projects </i></h3> 
 
 
 I’ve worked on multiple projects ranging from web apps, dashboards, and mobile apps.  
