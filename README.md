@@ -13,12 +13,12 @@
 <h4>🙋 About Me </h4> 
 
 > 🚀 **Learning by Doing**  
-After a tough first year in poly, I restarted my journey by building projects from scratch.  
+After tough years in poly, I restarted my journey by learning and building projects from scratch.  
 
 > ⚽🎸🎤 **Passions**  
-I love playing soccer, jamming on guitar, and singing.  
+Beyond coding, I love playing soccer, jamming on guitar, and singing.  
 
-> 📖 **Favorite Book**  
+> 📙 **Favorite Book**  
 *Atomic Habits* – a constant source of motivation for me.  
 
 > 🎬 **Content Creator**  
