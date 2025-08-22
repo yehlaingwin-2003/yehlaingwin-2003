@@ -89,11 +89,10 @@ You can explore all of them in detail on my **portfolio website**:
 ## <h3>🗣️ <i>I Speak & I’m Learning</i></h3>  
 
 **I Speak:**  
-![English](https://img.shields.io/badge/English-555555?style=for-the-badge&logoColor=white) <img src="https://flagcdn.com/w20/gb.png" width="50" height="50"/>  
-![Burmese](https://img.shields.io/badge/Burmese-555555?style=for-the-badge&logoColor=white) <img src="https://flagcdn.com/w20/mm.png" height="28"/>  
+![English](https://img.shields.io/badge/English-555555?style=for-the-badge&logoColor=white)<img src="https://flagcdn.com/w20/gb.png" width="55" height="55"/> ![Burmese](https://img.shields.io/badge/Burmese-555555?style=for-the-badge&logoColor=white)<img src="https://flagcdn.com/w20/mm.png"  width="55" height="55"/>  
 
 **Currently Learning:**  
-![German](https://img.shields.io/badge/German-555555?style=for-the-badge&logoColor=white) <img src="https://flagcdn.com/w20/de.png" height="28"/>  
+![German](https://img.shields.io/badge/German-555555?style=for-the-badge&logoColor=white) <img src="https://flagcdn.com/w20/de.png"  width="55" height="55"/>  
 
 
 
