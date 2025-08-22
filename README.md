@@ -10,7 +10,7 @@
 
 ##
 <h3>🙋 About Me  </h3>
- 🎓 **Learning by Doing**  
+> 🎓 **Learning by Doing**  
 After a tough first year in poly, I restarted my journey by building projects from scratch.  
 
 > ⚽ **Hobbies**  
