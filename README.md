@@ -61,7 +61,7 @@ I also recently started a <img src="https://upload.wikimedia.org/wikipedia/commo
 I’ve worked on multiple projects ranging from web apps, dashboards, and mobile apps.  
 You can explore all of them in detail on my **portfolio website**:  
 
-<p align="center">
+<p>
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
