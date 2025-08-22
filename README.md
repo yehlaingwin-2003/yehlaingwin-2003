@@ -92,3 +92,24 @@ You can explore all of them in detail on my **portfolio website**:
 
 **Currently Learning:**  
 ![German](https://img.shields.io/badge/German-000000?style=for-the-badge&logoColor=white)<img src="https://flagcdn.com/w80/de.png" width="47" height="47"/>  
+
+
+## <h3>🔗 <i>Connect with Me</i></h3> 
+<p>
+  <a href="https://www.youtube.com/@yehlaingwin-journey">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/ye-hlaing-win">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yehlaingwin26203@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="[https://www.instagram.com/yourusername/](https://www.instagram.com/ben_yhw?igsh=MWV4ZXlmdmttdzhmNQ%3D%3D&utm_source=qr)">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/17B6wYzkBQ/?mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
