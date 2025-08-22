@@ -53,3 +53,20 @@ I also recently started a <img src="https://upload.wikimedia.org/wikipedia/commo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
+## 
+🚀 Projects  
+
+- [**Virtual Health Coach App**](https://github.com/yourusername/vhc-app)  
+  🛠 Flutter, Firebase, Dialogflow  
+  📖 AI-powered health app with chatbot + personalized reminders.  
+
+- [**FX Investment Dashboard**](https://github.com/yourusername/fx-dashboard)  
+  🛠 Flask, PayPal API, ExchangeRate API  
+  📖 Currency exchange platform with payments, charts, and forecasts.  
+
+- [**Student Performance Dashboard**](https://github.com/yourusername/powerbi-dashboard)  
+  🛠 Power BI, SQL  
+  📖 Dashboard to analyze student results, highlight at-risk learners.  
+
+
