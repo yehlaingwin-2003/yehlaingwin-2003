@@ -74,9 +74,8 @@ You can explore all of them in detail on my **portfolio website**:
 ## 
 <h3>📺 <i>Latest YouTube Videos</i></h3>
 
-
 <!-- BEGIN YOUTUBE-CARDS -->
-⚠️ No videos yet — stay tuned! I’ll be uploading my first content soon. 🚀
+⚠️ No videos yet — stay tuned! I’ll be uploading my first content soon.
 <!-- END YOUTUBE-CARDS -->
 
 <p>
