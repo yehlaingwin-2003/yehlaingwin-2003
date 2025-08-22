@@ -56,8 +56,29 @@ I also recently started a <img src="https://upload.wikimedia.org/wikipedia/commo
 
 ## 
 ## 🚀 Projects  
+
 ## 🚀 Projects
 
-| | |
-|---|---|
-| <img src="https://via.placeholder.com/420x220.png?text=Screenshot+1" width="420"/> <br><b>Virtual Health Coach</b><br>AI health tips + reminders. <br><sub>Tech:</sub> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="22"/> <br>🔗 <a href="https://github.com/you/vhc">Details</a> · <a href="https://your-demo-link">Live</a> | <img src="https://via.placeholder.com/420x220.png?text=Screenshot+2" width="420"/> <br><b>FX Dashboard</b><br>Buy FX + charts + forecast. <br><sub>Tech:</sub> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22"/> <br>🔗 <a href="https://github.com/you/fx">Details</a> · <a href="https://your-demo-link">Live</a> |
+<p>
+  <img src="https://via.placeholder.com/640x300.png?text=Screenshot" width="640"><br>
+  <b>Virtual Health Coach</b> — AI tips + notifications.<br>
+  <sub>
+    Tech:
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="20">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="20">
+  </sub><br>
+  🔗 <a href="https://github.com/you/vhc">Details</a> · <a href="https://your-demo-link">Live</a>
+</p>
+
+<p>
+  <img src="https://via.placeholder.com/640x300.png?text=Screenshot" width="640"><br>
+  <b>FX Dashboard</b> — buy FX, visualize trends.<br>
+  <sub>
+    Tech:
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20">
+  </sub><br>
+  🔗 <a href="https://github.com/you/fx">Details</a> · <a href="https://your-demo-link">Live</a>
+</p>
