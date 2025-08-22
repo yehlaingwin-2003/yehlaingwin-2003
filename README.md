@@ -1,6 +1,10 @@
-<p style="align: center;">👋 Hi, I’m Ye Hlaing Win</p>
-**Full Stack Developer | AI Enthusiast | Learner from Myanmar 🇲🇲**
+<p align="center">
+  # 👋 Hi, I’m Ye Hlaing Win
+</p>
 
+<p align="center">
+  **Full Stack Developer | AI Enthusiast | Learner from Myanmar 🇲🇲**
+</p>
 
 ### 🛠️ Tech Stack
 <div align="center">
