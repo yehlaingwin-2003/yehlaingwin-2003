@@ -74,17 +74,14 @@ You can explore all of them in detail on my **portfolio website**:
 ## 
 <h3>📺 <i>Latest YouTube Videos</i></h3>
 
+
 <!-- BEGIN YOUTUBE-CARDS -->
-<!--
-The content between these markers is auto-generated.
-Don't edit manually.
--->
+⚠️ No videos yet — stay tuned! I’ll be uploading my first content soon. 🚀
 <!-- END YOUTUBE-CARDS -->
 
 <p align="center">
-  <a href="https://youtube.com/@YourHandle">See more on YouTube</a>
+  <a href="https://youtube.com/@YourHandle">
+    <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
-
-UCCe6N1wD8E3lSVH4CMW88sQ
-
 
