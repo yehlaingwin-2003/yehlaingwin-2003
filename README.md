@@ -27,22 +27,6 @@
 </p>
 
 
-## 
-<h3><i> 🙋 About Me </i></h3> 
-
-> 🚀 **Learning by Doing**  
-After facing challenges in poly, I decided to restart my journey by learning and building projects from scratch.  
-
-> ⚽🎸🎤 **Passions**  
-Beyond coding, I love playing soccer, jamming on guitar, and singing.  
-
-> 📙 **Favorite Book**  
-*Atomic Habits* – it is like a bank for me.  
-
-> 🎬 **Content Creator**  
-I started a YouTube channel to document my challenges and share my growth journey.  
-
-
 ## <h3><i>🙋 About Me</i></h3>
 
 I’m **Ye Hlaing Win**, a full stack developer from Myanmar.  
