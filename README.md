@@ -10,7 +10,7 @@
 
 
 ## 
-🙋 About Me  
+<h4>🙋 About Me </h4> 
 
 > 🚀 **Learning by Doing**  
 After a tough first year in poly, I restarted my journey by building projects from scratch.  
