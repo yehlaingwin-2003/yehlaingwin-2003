@@ -84,3 +84,14 @@ You can explore all of them in detail on my **portfolio website**:
   </a>
 </p>
 
+
+## 🗣️ I Speak & I’m Learning  
+
+**Languages I Speak:**  
+![English](https://img.shields.io/badge/English-0077B5?style=for-the-badge) 
+![Burmese](https://img.shields.io/badge/Burmese-FF5722?style=for-the-badge)  
+
+**Currently Learning:**  
+![German](https://img.shields.io/badge/German-000000?style=for-the-badge&logo=google-translate&logoColor=white)  
+
+
