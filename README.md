@@ -70,8 +70,31 @@ You can explore all of them in detail on my **portfolio website**:
 </p>
 
 
+
 ## 📺 Latest YouTube Videos  
 
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=DUdummy1">
+    <img src="https://img.youtube.com/vi/DUdummy1/0.jpg" width="250" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=DUdummy2">
+    <img src="https://img.youtube.com/vi/DUdummy2/0.jpg" width="250" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=DUdummy3">
+    <img src="https://img.youtube.com/vi/DUdummy3/0.jpg" width="250" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=DUdummy4">
+    <img src="https://img.youtube.com/vi/DUdummy4/0.jpg" width="250" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=DUdummy5">
+    <img src="https://img.youtube.com/vi/DUdummy5/0.jpg" width="250" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=DUdummy6">
+    <img src="https://img.youtube.com/vi/DUdummy6/0.jpg" width="250" />
+  </a>
+</p>
 
 
