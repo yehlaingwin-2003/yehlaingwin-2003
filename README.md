@@ -70,8 +70,8 @@ You can explore all of them in detail on my **portfolio website**:
 </p>
 
 
-## 📺 My YouTube Journey  
+## 📺 Latest YouTube Videos  
 
-I share coding challenges, project walkthroughs, and my growth story.  
-[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
+
 
