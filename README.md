@@ -1,4 +1,4 @@
-<h1 style="align: center;">👋 Hi, I’m Ye Hlaing Win</h1>
+<p style="align: center;">👋 Hi, I’m Ye Hlaing Win</p>
 **Full Stack Developer | AI Enthusiast | Learner from Myanmar 🇲🇲**
 
 
