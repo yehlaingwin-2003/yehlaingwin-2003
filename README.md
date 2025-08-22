@@ -41,3 +41,14 @@ Beyond coding, I love playing soccer, jamming on guitar, and singing.
 
 > 🎬 **Content Creator**  
 I started a YouTube channel to document my challenges and share my growth journey.  
+
+
+## <h3><i>🙋 About Me</i></h3>
+
+I’m **Ye Hlaing Win**, a full stack developer from Myanmar.  
+After struggling during my first year in polytechnic, I chose to restart from scratch — learning by doing and growing through real projects.  
+
+Outside of coding, I enjoy ⚽ playing soccer, 🎸 playing guitar, and 🎤 singing.  
+One of the books that inspires me most is *Atomic Habits*, a reminder that small steps can lead to big change.  
+
+I also recently started a 🎥 YouTube channel to share my journey, the challenges I face, and how I overcome them.  
