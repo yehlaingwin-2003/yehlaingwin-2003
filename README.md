@@ -65,6 +65,6 @@ You can explore all of them in detail on my **portfolio website**:
 
 <p>
   <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio%20Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
