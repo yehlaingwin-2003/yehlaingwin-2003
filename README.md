@@ -8,11 +8,17 @@
   <i>I enjoy turning problems into applications 🚀</i>
 </p>
 
-## 🌟 About Me  
 
-I’m **Ye Hlaing Win**, a full stack developer from Myanmar.  
-After a tough first year in poly, I chose to **restart from zero** and grow through real projects.  
+## 🙋 About Me  
 
-Outside of coding, I’m passionate about ⚽ soccer, 🎸 music, and 🎤 singing.  
-📚 *Atomic Habits* is my go-to book for motivation.  
-🎥 I also run a YouTube channel where I share my journey of challenges and progress.  
+> 🚀 **Learning by Doing**  
+After a tough first year in poly, I restarted my journey by building projects from scratch.  
+
+> ⚽🎸🎤 **Passions**  
+I love playing soccer, jamming on guitar, and singing.  
+
+> 📖 **Favorite Book**  
+*Atomic Habits* – a constant source of motivation for me.  
+
+> 🎬 **Content Creator**  
+I started a YouTube channel to share my challenges and growth journey.  
