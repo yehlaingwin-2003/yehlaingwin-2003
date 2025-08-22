@@ -85,14 +85,18 @@ You can explore all of them in detail on my **portfolio website**:
 </p>
 
 
+
 ## <h3>🗣️ <i>I Speak & I’m Learning</i></h3>  
 
-- I speak: 
-  <img src="https://flagcdn.com/w20/gb.png" width="30"/>, 
-  <img src="https://flagcdn.com/w20/mm.png" width="30"/> 
+<p>
+  <b>I Speak:</b><br>
+  <img src="https://img.shields.io/badge/English-🇬🇧-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Burmese-🇲🇲-red?style=for-the-badge"/>
+</p>
 
-- Currently learning: 
-  <img src="https://flagcdn.com/w20/de.png" width="30"/>
-
+<p>
+  <b>Currently Learning:</b><br>
+  <img src="https://img.shields.io/badge/German-🇩🇪-black?style=for-the-badge"/>
+</p>
 
 
