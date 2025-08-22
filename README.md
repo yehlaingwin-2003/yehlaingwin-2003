@@ -57,37 +57,31 @@ I also recently started a <img src="https://upload.wikimedia.org/wikipedia/commo
 ## 
 ## 🚀 Projects  
 
-<p align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github.com/yourusername/project1/raw/main/screenshot.png" width="300px" alt="Project 1"/>
-  </a>
-  <br/>
-  <b>Virtual Health Coach App</b>
-  <br/>
-  <sub>🛠 Built with Flutter · Firebase · Dialogflow</sub>
-</p>
+<div align="center">
 
----
+  <img src="https://via.placeholder.com/600x300.png?text=Project+Screenshot" width="600px" alt="Project Screenshot"/>
+  
+  <h3>Project Name</h3>
+  
+  <p>Short description of your project. Example: A web app for real-time collaboration with chat and task management.</p>
 
-<p align="center">
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github.com/yourusername/project2/raw/main/demo.png" width="300px" alt="Project 2"/>
-  </a>
-  <br/>
-  <b>FX Investment Dashboard</b>
-  <br/>
-  <sub>🛠 Flask · PayPal API · ExchangeRate API</sub>
-</p>
+  <!-- Tech stack logos -->
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/>
+  </p>
 
----
+  <!-- Buttons -->
+  <p>
+    <a href="https://your-live-demo-link.com">
+      <img src="https://img.shields.io/badge/Live%20Demo-28a745?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
+    <a href="https://github.com/yourusername/project-repo">
+      <img src="https://img.shields.io/badge/Details-0366d6?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://github.com/yourusername/project3">
-    <img src="https://github.com/yourusername/project3/raw/main/dashboard.png" width="300px" alt="Project 3"/>
-  </a>
-  <br/>
-  <b>Student Performance Dashboard</b>
-  <br/>
-  <sub>🛠 Power BI · SQL</sub>
-</p>
+</div>
 
