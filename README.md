@@ -68,3 +68,10 @@ You can explore all of them in detail on my **portfolio website**:
     <img src="https://img.shields.io/badge/View%20My%20Portfolio%20Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
+
+
+## 📺 My YouTube Journey  
+
+I share coding challenges, project walkthroughs, and my growth story.  
+[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
+
