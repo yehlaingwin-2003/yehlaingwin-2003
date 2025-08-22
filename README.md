@@ -9,15 +9,18 @@
 </p>
 
 ##
-<h3>🙋 About Me  </h3>
-> 🎓 **Learning by Doing**  
-After a tough first year in poly, I restarted my journey by building projects from scratch.  
+## 👨‍💻 About Me  
 
-> ⚽ **Hobbies**  
-I love playing soccer, strumming the guitar, and singing.  
+Hi, I’m **Ye Hlaing Win** — a full stack developer from Myanmar.  
 
-> 📚 **Favorite Book**  
-*Atomic Habits* – a big source of motivation for me.  
+🌱 **My Journey**  
+After a challenging first year in polytechnic, I decided to **restart from scratch**. Instead of giving up, I began rebuilding my skills through **hands-on projects** — because I believe real learning comes from creating.  
 
-> 🎥 **Content Creator**  
-I started a YouTube channel to document my challenges and progress.  
+⚽ **Beyond Code**  
+When I’m not coding, you’ll find me **playing soccer**, 🎸 **jamming on guitar**, or 🎤 **singing** — activities that keep me creative and balanced.  
+
+📚 **What Inspires Me**  
+One of my favorite books, *Atomic Habits*, reminds me that **small, consistent steps lead to big results** — a principle I live by in both life and coding.  
+
+🎥 **Sharing the Journey**  
+I recently started a **YouTube channel** to document my struggles, challenges, and progress — hoping to inspire others who are on the same path.  
