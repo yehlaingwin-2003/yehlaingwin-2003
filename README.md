@@ -29,10 +29,10 @@
 
 ## <h3><i>🙋 About Me</i></h3>
 
-I’m **Ye Hlaing Win**, a full stack developer from Myanmar.  
-After struggling during my first year in polytechnic, I chose to restart from scratch — learning by doing and growing through real projects.  
+I’m **Ye Hlaing Win**, a full stack developer from Myanmar <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f6cacc68-6712-4aea-8779-b60c33632d7b" />.  
+After struggling during my years in polytechnic, I chose to restart from scratch — learning by doing and growing through real projects.  
 
 Outside of coding, I enjoy ⚽ playing soccer, 🎸 playing guitar, and 🎤 singing.  
 One of the books that inspires me most is *Atomic Habits*, a reminder that small steps can lead to big change.  
 
-I also recently started a 🎥 YouTube channel to share my journey, the challenges I face, and how I overcome them.  
+I also recently started a <img width="20" height="20" alt="image" src="[https://github.com/user-attachments/assets/f6cacc68-6712-4aea-8779-b60c33632d7b](https://t4.ftcdn.net/jpg/03/04/06/01/360_F_304060171_OUUSKIITlOLRgnDI1EFO8eSZqOHab6Iq.jpg)" /> YouTube channel to share my journey, the challenges I face, and how I overcome them.  
