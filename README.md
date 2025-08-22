@@ -10,7 +10,7 @@
 
 
 ## 
-<h4>🙋 About Me </h4> 
+<h4><i> 🙋 About Me </i></h4> 
 
 > 🚀 **Learning by Doing**  
 After facing challenges in poly, I decided to restart my journey by learning and building projects from scratch.  
