@@ -56,32 +56,8 @@ I also recently started a <img src="https://upload.wikimedia.org/wikipedia/commo
 
 ## 
 ## 🚀 Projects  
+## 🚀 Projects
 
-<div align="center">
-
-  <img src="https://via.placeholder.com/600x300.png?text=Project+Screenshot" width="600px" alt="Project Screenshot"/>
-  
-  <h3>Project Name</h3>
-  
-  <p>Short description of your project. Example: A web app for real-time collaboration with chat and task management.</p>
-
-  <!-- Tech stack logos -->
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/>
-  </p>
-
-  <!-- Buttons -->
-  <p>
-    <a href="https://your-live-demo-link.com">
-      <img src="https://img.shields.io/badge/Live%20Demo-28a745?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-    </a>
-    <a href="https://github.com/yourusername/project-repo">
-      <img src="https://img.shields.io/badge/Details-0366d6?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </p>
-
-</div>
-
+| | |
+|---|---|
+| <img src="https://via.placeholder.com/420x220.png?text=Screenshot+1" width="420"/> <br><b>Virtual Health Coach</b><br>AI health tips + reminders. <br><sub>Tech:</sub> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="22"/> <br>🔗 <a href="https://github.com/you/vhc">Details</a> · <a href="https://your-demo-link">Live</a> | <img src="https://via.placeholder.com/420x220.png?text=Screenshot+2" width="420"/> <br><b>FX Dashboard</b><br>Buy FX + charts + forecast. <br><sub>Tech:</sub> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22"/> <br>🔗 <a href="https://github.com/you/fx">Details</a> · <a href="https://your-demo-link">Live</a> |
