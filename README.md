@@ -87,12 +87,12 @@ You can explore all of them in detail on my **portfolio website**:
 
 ## <h3>🗣️ <i>I Speak & I’m Learning</i></h3>  
 
-- 💬 I speak: 
-  <img src="https://flagcdn.com/w20/gb.png" width="20"/> English, 
-  <img src="https://flagcdn.com/w20/mm.png" width="20"/> Burmese  
+- I speak: 
+  <img src="https://flagcdn.com/w20/gb.png" width="30"/>, 
+  <img src="https://flagcdn.com/w20/mm.png" width="30"/> 
 
-- 📖 Currently learning: 
-  <img src="https://flagcdn.com/w20/de.png" width="20"/> German  
+- Currently learning: 
+  <img src="https://flagcdn.com/w20/de.png" width="30"/>
 
 
 
