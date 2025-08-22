@@ -1,65 +1,46 @@
 # 👋 Hello,
-## I am **Ye Hlaing Win**, a full stack developer from Myanmar <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/f6cacc68-6712-4aea-8779-b60c33632d7b" />
-. 
-### 🛠️ Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+## I am **Ye Hlaing Win**, a full stack developer from Myanmar <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f6cacc68-6712-4aea-8779-b60c33632d7b" />
 
-###
+<!-- Hero -->
+<p align="center">
+  <samp>Hey there, I'm <b>May</b> — Full-Stack Developer in Singapore.</samp><br/>
+  <samp>I build helpful apps with Flutter, Flask, and Firebase.</samp>
+</p>
 
+<p align="center">
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourhandle/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-EB4432?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://wakatime.com/badge/user/YOUR-UUID.svg" alt="Wakatime"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yourusername&title=Visitors&edge_flat=false"/>
+</p>
 
-### 🚀 Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| Echoes of Temasek | Theatre CCA club website with events & member management | HTML, CSS, JS, JSP |
-| Project Management App | Multi-company task manager with chat & assignments | React, Node.js, PostgreSQL |
-| Iris ML Classifier | ML project predicting flower species | Python, scikit-learn |
-| IoT + ML Idea | Future project combining sensors with AI | Python, Arduino, ML |
+<img align="right" src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/dev-illustration.png" width="300"/>
 
+### About me
+- 👩🏻‍💻 I turn ideas into shipped products.
+- 🧭 Interests: health tech, edtech, and clean UI systems.
+- 📫 Reach me anytime: **you@email.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+### Use to code
+<p>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</p>
 
+### Highlights
+- 🧠 **Virtual Health Coach (Flutter + Firebase + Dialogflow)** — personalized tips, notifications, and chatbot.
+- 📊 **Student Performance Dashboard (Power BI)** — surfaced at-risk students with clear visuals.
+- 🔐 **PayPal + Open Banking (Flask)** — FX dashboard integrating multiple APIs.
 
+---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/your-channel-id)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://yourportfolio.com)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" height="150"/>
+</p>
 
-
-
-
-<!--
-**yehlaingwin-2003/yehlaingwin-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
