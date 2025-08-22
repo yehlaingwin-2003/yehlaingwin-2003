@@ -3,7 +3,7 @@ name: Update YouTube cards
 on:
   schedule:
     - cron: "0 0 * * *"   # every day at 00:00 UTC
-  workflow_dispatch:       # allow manual runs
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -18,19 +18,9 @@ jobs:
       - name: Generate YouTube Cards
         uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: UCCe6N1wD8E3lSVH4CMW88sQ   # <-- paste your UC... ID
+          channel_id: UCCe6N1wD8E3lSVH4CMW88sQ
           max_videos: 6
-          readme_path: README.md
-          output_dir: .
-          hide_channel_title: true
-          show_duration: true
-          show_view_count: true
-          show_date: true
-          commit_message: "chore: update YouTube video cards"
-          background_color: "0d1117"
-          title_color: "ffffff"
-          stats_color: "c9d1d9"
-
+          comment_tag_name: YOUTUBE-CARDS   # must match README markers
 
       - name: Commit if changed
         uses: stefanzweifel/git-auto-commit-action@v5
