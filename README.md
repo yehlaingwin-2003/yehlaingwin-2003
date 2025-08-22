@@ -55,18 +55,39 @@ I also recently started a <img src="https://upload.wikimedia.org/wikipedia/commo
 
 
 ## 
-🚀 Projects  
+## 🚀 Projects  
 
-- [**Virtual Health Coach App**](https://github.com/yourusername/vhc-app)  
-  🛠 Flutter, Firebase, Dialogflow  
-  📖 AI-powered health app with chatbot + personalized reminders.  
+<p align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img src="https://github.com/yourusername/project1/raw/main/screenshot.png" width="300px" alt="Project 1"/>
+  </a>
+  <br/>
+  <b>Virtual Health Coach App</b>
+  <br/>
+  <sub>🛠 Built with Flutter · Firebase · Dialogflow</sub>
+</p>
 
-- [**FX Investment Dashboard**](https://github.com/yourusername/fx-dashboard)  
-  🛠 Flask, PayPal API, ExchangeRate API  
-  📖 Currency exchange platform with payments, charts, and forecasts.  
+---
 
-- [**Student Performance Dashboard**](https://github.com/yourusername/powerbi-dashboard)  
-  🛠 Power BI, SQL  
-  📖 Dashboard to analyze student results, highlight at-risk learners.  
+<p align="center">
+  <a href="https://github.com/yourusername/project2">
+    <img src="https://github.com/yourusername/project2/raw/main/demo.png" width="300px" alt="Project 2"/>
+  </a>
+  <br/>
+  <b>FX Investment Dashboard</b>
+  <br/>
+  <sub>🛠 Flask · PayPal API · ExchangeRate API</sub>
+</p>
 
+---
+
+<p align="center">
+  <a href="https://github.com/yourusername/project3">
+    <img src="https://github.com/yourusername/project3/raw/main/dashboard.png" width="300px" alt="Project 3"/>
+  </a>
+  <br/>
+  <b>Student Performance Dashboard</b>
+  <br/>
+  <sub>🛠 Power BI · SQL</sub>
+</p>
 
