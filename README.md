@@ -71,30 +71,20 @@ You can explore all of them in detail on my **portfolio website**:
 
 
 
-## 📺 Latest YouTube Videos  
+## 
+<h3>📺 <i>Latest YouTube Videos</i></h3>
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!--
+The content between these markers is auto-generated.
+Don't edit manually.
+-->
+<!-- END YOUTUBE-CARDS -->
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=6avJHaC3C2U">
-    <img src="https://img.youtube.com/vi/6avJHaC3C2U/mqdefault.jpg" width="250" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=azcrPFhaY9k">
-    <img src="https://img.youtube.com/vi/azcrPFhaY9k/mqdefault.jpg" width="250" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=h6e1JjDkzS4">
-    <img src="https://img.youtube.com/vi/h6e1JjDkzS4/mqdefault.jpg" width="250" />
-  </a>
+  <a href="https://youtube.com/@YourHandle">See more on YouTube</a>
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=PkZNo7MFNFg">
-    <img src="https://img.youtube.com/vi/PkZNo7MFNFg/mqdefault.jpg" width="250" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=Oe421EPjeBE">
-    <img src="https://img.youtube.com/vi/Oe421EPjeBE/mqdefault.jpg" width="250" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=jS4aFq5-91M">
-    <img src="https://img.youtube.com/vi/jS4aFq5-91M/mqdefault.jpg" width="250" />
-  </a>
-</p>
+UCCe6N1wD8E3lSVH4CMW88sQ
 
 
