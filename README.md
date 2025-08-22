@@ -88,7 +88,7 @@ You can explore all of them in detail on my **portfolio website**:
 ## <h3>🗣️ <i>I Speak & I’m Learning</i></h3>  
 
 **I Speak:**  
-![English](https://img.shields.io/badge/English-0A66C2?style=for-the-badge&logoColor=white)<img src="https://flagcdn.com/w80/gb.png" width="55" height="55"/> ![Burmese](https://img.shields.io/badge/Burmese-FECB00?style=for-the-badge&logoColor=white)<img src="https://flagcdn.com/w80/mm.png" width="43" height="43"/>  
+ ![Burmese](https://img.shields.io/badge/Burmese-FECB00?style=for-the-badge&logoColor=white)<img src="https://flagcdn.com/w80/mm.png" width="41" height="41"/>  ![English](https://img.shields.io/badge/English-0A66C2?style=for-the-badge&logoColor=white)<img src="https://flagcdn.com/w80/gb.png" width="55" height="55"/>
 
 **Currently Learning:**  
 ![German](https://img.shields.io/badge/German-000000?style=for-the-badge&logoColor=white)<img src="https://flagcdn.com/w80/de.png" width="47" height="47"/>  
