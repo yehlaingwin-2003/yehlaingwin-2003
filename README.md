@@ -13,13 +13,13 @@
 <h4>🙋 About Me </h4> 
 
 > 🚀 **Learning by Doing**  
-After tough years in poly, I restarted my journey by learning and building projects from scratch.  
+After facing challenges in poly, I decided to restart my journey by learning and building projects from scratch.  
 
 > ⚽🎸🎤 **Passions**  
 Beyond coding, I love playing soccer, jamming on guitar, and singing.  
 
 > 📙 **Favorite Book**  
-*Atomic Habits* – a constant source of motivation for me.  
+*Atomic Habits* – it is like a bank for me.  
 
 > 🎬 **Content Creator**  
-I started a YouTube channel to share my challenges and growth journey.  
+I started a YouTube channel to document my challenges and share my growth journey.  
