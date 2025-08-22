@@ -10,3 +10,14 @@
 
 ##
 <h3>🙋 About Me  </h3>
+ 🎓 **Learning by Doing**  
+After a tough first year in poly, I restarted my journey by building projects from scratch.  
+
+> ⚽ **Hobbies**  
+I love playing soccer, strumming the guitar, and singing.  
+
+> 📚 **Favorite Book**  
+*Atomic Habits* – a big source of motivation for me.  
+
+> 🎥 **Content Creator**  
+I started a YouTube channel to document my challenges and progress.  
