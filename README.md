@@ -18,7 +18,7 @@
    <a href="https://www.youtube.com/@yehlaingwin-journey">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="[https://www.instagram.com/yourusername/](https://www.instagram.com/ben_yhw?igsh=MWV4ZXlmdmttdzhmNQ%3D%3D&utm_source=qr)">
+  <a href="https://www.instagram.com/ben_yhw?igsh=MWV4ZXlmdmttdzhmNQ%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/share/17B6wYzkBQ/?mibextid=wwXIfr">
@@ -105,7 +105,7 @@ You can explore all of them in detail on my **portfolio website**:
   <a href="https://www.youtube.com/@yehlaingwin-journey">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="[https://www.instagram.com/yourusername/](https://www.instagram.com/ben_yhw?igsh=MWV4ZXlmdmttdzhmNQ%3D%3D&utm_source=qr)">
+  <a href="https://www.instagram.com/ben_yhw?igsh=MWV4ZXlmdmttdzhmNQ%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/share/17B6wYzkBQ/?mibextid=wwXIfr">
