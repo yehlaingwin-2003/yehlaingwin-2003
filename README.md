@@ -64,7 +64,7 @@ I’ve worked on multiple projects ranging from web apps, dashboards, and mobile
 You can explore all of them in detail on my **portfolio website**:  
 
 <p>
-  <a href="https://your-portfolio-link.com">
+  <a href="">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio%20Website-800080?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
