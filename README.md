@@ -32,7 +32,7 @@
 
 I enjoy turning ideas into real applications and believe in learning by doing — building projects that help me grow my skills every day. After facing challenges during my years in Singapore Poly, I decided to start learning and doing projects from scratch. 
 
-Outside of coding, I enjoy ⚽ playing soccer, 🎸 making music on guitar, and 🎤 singing.  
+Outside of coding, I enjoy playing soccer ⚽, making music on guitar 🎸, and singing 🎤.  
 One of the books that inspires me most is *Atomic Habits*, a reminder that small steps can lead to big change.  
 
 I also recently started a <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg" width="20" height="20"/> YouTube channel to share my journey, the challenges I face, and how I overcome them.
