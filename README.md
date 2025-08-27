@@ -15,7 +15,7 @@
   <a href="mailto:yehlaingwin26203@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-   <a href="https://www.youtube.com/@yehlaingwin-journey">
+   <a href="https://www.youtube.com/@yehlaingwin-2003">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ben_yhw?igsh=MWV4ZXlmdmttdzhmNQ%3D%3D&utm_source=qr">
@@ -79,7 +79,7 @@ You can explore all of them in detail on my **portfolio website**:
 <!-- END YOUTUBE-CARDS -->
 
 <p>
-  <a href="https://youtube.com/@YourHandle">
+  <a href="https://www.youtube.com/@yehlaingwin-2003">
     <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
@@ -102,7 +102,7 @@ You can explore all of them in detail on my **portfolio website**:
   <a href="mailto:yehlaingwin26203@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@yehlaingwin-journey">
+  <a href="https://www.youtube.com/@yehlaingwin-2003">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ben_yhw?igsh=MWV4ZXlmdmttdzhmNQ%3D%3D&utm_source=qr">
